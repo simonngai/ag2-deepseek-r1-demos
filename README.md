@@ -1,4 +1,4 @@
-This repo is used to demostrate some errors from using deep-seek-reaonser model.
+This repo is used to demostrate some errors from using deep-seek-reaonser model in AG2 group chat.
 
 Steps to use:
 
